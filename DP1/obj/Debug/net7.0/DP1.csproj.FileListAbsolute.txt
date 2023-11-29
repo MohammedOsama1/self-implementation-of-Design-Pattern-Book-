@@ -1,0 +1,15 @@
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\bin\Debug\net7.0\DP1.exe
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\bin\Debug\net7.0\DP1.deps.json
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\bin\Debug\net7.0\DP1.runtimeconfig.json
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\bin\Debug\net7.0\DP1.dll
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\bin\Debug\net7.0\DP1.pdb
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.csproj.AssemblyReference.cache
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.AssemblyInfoInputs.cache
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.AssemblyInfo.cs
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.csproj.CoreCompileInputs.cache
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.dll
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\refint\DP1.dll
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.pdb
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\DP1.genruntimeconfig.cache
+C:\Users\osama.MAHAM\source\repos\DP1\DP1\obj\Debug\net7.0\ref\DP1.dll
