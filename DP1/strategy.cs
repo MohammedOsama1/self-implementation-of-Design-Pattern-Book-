@@ -2,17 +2,11 @@
 {
     class Problem1
     {
-        public static void Main(string[] args)
-        {
-            Duck duck = new fighDuck();
-            duck.doQuake();
-            duck.doFly();
-        }
+    
     }
 }
 
-/**************************************************/
-
+/***********-***-***-***-***-***-***-***-***-***-***-***-***-***/
 
 public interface IFlyable
 {
@@ -39,9 +33,7 @@ public class ICanQuake : IQuakeable
         Console.WriteLine("Ican Quake");
     }
 
-
 }
-
 public abstract class Duck
 {
     public IQuakeable quake;
